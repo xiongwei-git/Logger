@@ -8,7 +8,7 @@ Logger.init("MyTag")
 ```
 
 ### Dependency
-https://jitpack.io/#xiongwei-git/logger/1.12
+https://jitpack.io/#xiongwei-git/Logger/1.0
 
 ```groovy
 repositories {
@@ -17,7 +17,7 @@ repositories {
 }
 
 dependencies {
-  compile 'com.github.xiongwei-git:logger:1.12'
+  compile 'com.github.xiongwei-git:Logger:1.0'
 }
 ```
 ---
